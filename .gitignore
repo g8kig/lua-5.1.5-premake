@@ -1,0 +1,10 @@
+
+*.db
+*.suo
+*.db-shm
+*.db-wal
+*.vcxproj
+*.user
+*.sln
+*.log
+*.tlog
